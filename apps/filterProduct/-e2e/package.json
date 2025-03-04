@@ -1,0 +1,12 @@
+{
+  "name": "filterProduct-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "projectType": "application",
+    "sourceRoot": "apps/filterProduct/-e2e/src",
+    "implicitDependencies": [
+      "@frontend/filterProduct"
+    ]
+  }
+}
