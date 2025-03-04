@@ -11,6 +11,9 @@
     },
     {
       "path": "./apps/filterProduct"
+    },
+    {
+      "path": "./apps/udemy01-e2e"
     }
   ]
 }
